@@ -1,7 +1,7 @@
 {
 	"apiVersion": 2,
 	"name": "create-block/blockpluginwromo",
-	"version": "0.1.0",
+	"version": "0.1.2",
 	"title": "BlockPluginWromo",
 	"category": "widgets",
 	"icon": "smiley",

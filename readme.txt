@@ -69,4 +69,4 @@ The BlockPluginWromo plugin is totally free to use or share, so use and share it
 
 [by Studio Wromo Wien](https://goo.gl/maps/c4imNNKoWxkMDHfy9 "link to")
 
-> [Iulian Ghepes](https://www.buymeacoffee.com/infowromon "link to")
+> [Julian Ghepes](https://www.buymeacoffee.com/infowromon "link to")
