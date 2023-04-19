@@ -10,7 +10,11 @@ Block Plugin Wordpress Starter Develop
 3. Or with CLI to /wp-content/plugin/
 
 ```sh
-npx @ersin84/create-block blockpluginwromo --template @ersin84/blockpluginwromo
+gh repo clone Ghepes/blockpluginwromo
+
+https://github.com/Ghepes/blockpluginwromo.git
+
+npx @ghepes/blockpluginwromo blockpluginwromo --template @ghepes/blockpluginwromo
 ```
 
 4. Activate - Plugin to Wordpress
@@ -21,13 +25,6 @@ Activate this Wordpress BLOCKs and you can attach more PERSONALIZED BLOCKs.
 
  The BlockPluginWromo
 The BlockPluginWromo plugin is totally free to use or share, so use and share it with your friends.
-
-
-
-
-
-
-
 
 [by Studio Wromo Wien](https://goo.gl/maps/c4imNNKoWxkMDHfy9 "link to")
 
